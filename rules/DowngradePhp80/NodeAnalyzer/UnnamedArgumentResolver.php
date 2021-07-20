@@ -14,11 +14,6 @@ use ReflectionFunction;
 
 final class UnnamedArgumentResolver
 {
-    /**
-     * @var int
-     */
-    private const PARAM_POSITION = 0;
-
     public function __construct(
         private NodeNameResolver $nodeNameResolver
     ) {
