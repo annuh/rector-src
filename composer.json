@@ -7,7 +7,7 @@
     "license": "MIT",
     "homepage": "https://getrector.org",
     "require": {
-        "php": "^8.0",
+        "php": "^7.3",
         "ext-dom": "*",
         "ext-json": "*",
         "composer/semver": "^3.2",
